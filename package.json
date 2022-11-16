@@ -8,7 +8,8 @@
     "postinstall": "nuxi prepare"
   },
   "devDependencies": {
-    "content-wind": "^0.2.8",
-    "nuxt": "npm:nuxt3@latest"
+    "content-wind": "^0.2.9",
+    "nuxt": "npm:nuxt3@latest",
+    "typescript": "^4.9.3"
   }
 }
